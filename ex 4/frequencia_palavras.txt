@@ -1,0 +1,4 @@
+chove: 2
+chuva: 1
+sem: 1
+parar: 1
